@@ -12,7 +12,7 @@ namespace HousesForSale2.Models
     public static class GetConString
     {
         /// <summary>
-        /// Connection the string.
+        /// DB Connection the string.
         /// </summary>
         /// <returns>Connection String</returns>
         public static string ConString()
